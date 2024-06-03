@@ -31,5 +31,5 @@ learning techniques for medical diagnosis in this area.
 
 Please find the full paper linked below:
 
-[Swin Transformer Paper](SwinTransformersEyeDisease.pdf)
+[Swin Transformer Paper](SwinTransformersEyeDiseasePaper.pdf)
 
